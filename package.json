@@ -1,0 +1,13 @@
+{
+  "name": "twitch-screenshot-puppeteer",
+  "version": "1.0.0",
+  "description": "API para tirar screenshots da Twitch usando Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}
